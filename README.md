@@ -6,9 +6,8 @@ This is a git that compiles all of my jupyter notebook files that contains some 
 
 <p> I'm currently talking to myself right now, but I hope in the future someone's gonna find this Git and kind of know where I left off and witness my growth</p>
 
+Furthermore, I was inspired by this picture to create these compilations. Since tbh i cannot remember all of the things that i have learned throughout the years
+
 ![514355866_1287377260057510_8024187461870087311_n](https://github.com/user-attachments/assets/fed91f76-1d53-4a58-b7f6-b4a3b3194671)
 
-To be honest, I was inspired by this picture, though this README may be noted as fixed, but I just forgot to share this picture.... anyhow, I still wanted to share here. 
-
-And thus, these files' contents are somewhat adhered to the content in this picture.
 
